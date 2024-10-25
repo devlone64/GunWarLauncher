@@ -4,7 +4,7 @@ Custom launcher developed exclusively for minigame servers before the occupation
 
 ## Assets
 해당 커스텀 런처에서는 Icons8의 아이콘들을 사용하고 있습니다.<br>
-This custom launcher uses icons from Icons8.<br><br>
+This custom launcher uses icons from Icons8.<br>
 
 <a target="_blank" href="https://icons8.com/icon/82790/folder">Folder</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a><br>
 <a target="_blank" href="https://icons8.com/icon/82792/logout">Logout</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a><br>
