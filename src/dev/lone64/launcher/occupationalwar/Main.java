@@ -16,7 +16,7 @@ import java.awt.EventQueue;
 public class Main {
     public static final String LAUNCHER_NAME = "OccupationalWar";
     public static final String LAUNCHER_PATH = "OccupationalWar";
-    public static final String LAUNCHER_FILE = "https://launcher.lone64.dev/repo/gunwar/launcher.json";
+    public static final String LAUNCHER_FILE = "";
     
     public static void main(String[] args) {
         var account = MCAuth.getInstance().account();
